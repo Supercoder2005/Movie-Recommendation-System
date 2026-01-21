@@ -5,3 +5,7 @@ matplotlib
 ipykernel
 nltk
 scikit-learn
+fastapi
+pydantic
+python-dotenv
+httpx
